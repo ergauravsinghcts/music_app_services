@@ -1,0 +1,4995 @@
+{
+  "count": "30",
+  "status": 1,
+  "eof": 0,
+  "entities": [
+    {
+      "language": "Hindi",
+      "seokey": "album-4835334-song-1",
+      "name": "Jai Jai Shri Ram Jai Shri Ram",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/MmqK5EKwRO/qK5ZGzgz3w/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/MmqK5EKwRO/qK5ZGzgz3w/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/MmqK5EKwRO/qK5ZGzgz3w/size_m.jpg",
+      "entity_id": "55927670",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/MmqK5EKwRO/qK5ZGzgz3w/size_l.jpg",
+      "favorite_count": 2209,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "7J9JY"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "145970",
+              "name": "Saint Dr. Gurmeet Ram Rahim Singh Ji Insan",
+              "seokey": "saint-gurmeet-ram-rahim-singh-ji-insan"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8759820",
+              "name": "Jai Jai Shri Ram Jai Shri Ram",
+              "album_seokey": "album-hindi-2024-47"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Jai Jai Shri",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Jai Jai Shri",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/MmqK5EKwRO/qK5ZGzgz3w/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "216"
+        },
+        {
+          "key": "isrc",
+          "value": "INI112200518"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 99,
+              "tag_name": "Devotional"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "kalaastar-from-honey-30",
+      "name": "Kalaastar (From \"Honey 3.0\")",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/vKXrNk9vWm/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/vKXrNk9vWm/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/vKXrNk9vWm/size_m.jpg",
+      "entity_id": "54257493",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/vKXrNk9vWm/size_l.jpg",
+      "favorite_count": 23394,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "K7vOp"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "119593",
+              "name": "Yo Yo Honey Singh",
+              "seokey": "yo-yo-honey-singh"
+            },
+            {
+              "artist_id": "4016689",
+              "name": "Gill Machhrai",
+              "seokey": "gill-machhrai"
+            },
+            {
+              "artist_id": "4016690",
+              "name": "Rony Ajnali",
+              "seokey": "rony-ajnali"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8189601",
+              "name": "Kalaastar (From \"Honey 3.0\")",
+              "album_seokey": "kalaastar-from-honey-30"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Kalaastar (From \"Honey",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Kalaastar (From \"Honey",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "1M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/vKXrNk9vWm/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "207"
+        },
+        {
+          "key": "isrc",
+          "value": "INZ031413795"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            },
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "desperado-1041",
+      "name": "Desperado",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/qaLKY23pO4/LKYAG0vaKp/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/qaLKY23pO4/LKYAG0vaKp/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/qaLKY23pO4/LKYAG0vaKp/size_m.jpg",
+      "entity_id": "52509729",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/qaLKY23pO4/LKYAG0vaKp/size_l.jpg",
+      "favorite_count": 19449,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "dW95v"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "204608",
+              "name": "Raghav",
+              "seokey": "raghava"
+            },
+            {
+              "artist_id": "2488625",
+              "name": "Tesher",
+              "seokey": "tesher"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7569640",
+              "name": "Desperado",
+              "album_seokey": "desperado-english-2023-5"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Desperado",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Desperado",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "1M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/qaLKY23pO4/LKYAG0vaKp/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "247"
+        },
+        {
+          "key": "isrc",
+          "value": "TCAHF2307040"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "leke-prabhu-ka-naam-from-tiger-3",
+      "name": "Leke Prabhu Ka Naam (From \"Tiger 3\")",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/d41WjnWPLq/1WjwjpeobP/size_m_1698057396.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/d41WjnWPLq/1WjwjpeobP/size_m_1698057396.webp",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/d41WjnWPLq/1WjwjpeobP/size_m_1698057396.jpg",
+      "entity_id": "54415030",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/d41WjnWPLq/1WjwjpeobP/size_l_1698057396.jpg",
+      "favorite_count": 22163,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "lmqbY"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "11468",
+              "name": "Pritam",
+              "seokey": "pritam"
+            },
+            {
+              "artist_id": "52767",
+              "name": "Arijit Singh",
+              "seokey": "arijit-singh"
+            },
+            {
+              "artist_id": "335824",
+              "name": "Nikhita Gandhi",
+              "seokey": "nikhita-gandhi"
+            },
+            {
+              "artist_id": "529",
+              "name": "Amitabh Bhattacharya",
+              "seokey": "amitabh-bhattacharya"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8229317",
+              "name": "Leke Prabhu Ka Naam (From \"Tiger 3\")",
+              "album_seokey": "leke-prabhu-ka-naam-from-tiger-3"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Leke Prabhu Ka",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Leke Prabhu Ka",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "2M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/d41WjnWPLq/1WjwjpeobP/size_l_1698057396.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "215"
+        },
+        {
+          "key": "isrc",
+          "value": "INY092300060"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "gaadi-kaali-1",
+      "name": "Gaadi Kaali",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/lJvKa63DV9/vKa57z04KD/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/lJvKa63DV9/vKa57z04KD/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/lJvKa63DV9/vKa57z04KD/size_m.jpg",
+      "entity_id": "54214523",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/lJvKa63DV9/vKa57z04KD/size_l.jpg",
+      "favorite_count": 12372,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "lmqbY"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "495",
+              "name": "Neha Kakkar",
+              "seokey": "neha-kakkar"
+            },
+            {
+              "artist_id": "13236",
+              "name": "Rohanpreet Singh",
+              "seokey": "rohanpreet-singh"
+            },
+            {
+              "artist_id": "5036301",
+              "name": "Saga Sounds",
+              "seokey": "saga-sounds"
+            },
+            {
+              "artist_id": "1386136",
+              "name": "Raees",
+              "seokey": "raees"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8176400",
+              "name": "Gaadi Kaali",
+              "album_seokey": "gaadi-kaali-punjabi"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Gaadi Kaali",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Gaadi Kaali",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "1M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/lJvKa63DV9/vKa57z04KD/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "211"
+        },
+        {
+          "key": "isrc",
+          "value": "INS922300823"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            },
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "car-keys-ayla",
+      "name": "Car Keys (Ayla)",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/a7LWBkzbzX/LWBkqrnDbz/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/a7LWBkzbzX/LWBkqrnDbz/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/a7LWBkzbzX/LWBkqrnDbz/size_m.jpg",
+      "entity_id": "52114077",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/a7LWBkzbzX/LWBkqrnDbz/size_l.jpg",
+      "favorite_count": 5863,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "AK9OR"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "931",
+              "name": "Alok",
+              "seokey": "alok"
+            },
+            {
+              "artist_id": "1364366",
+              "name": "Ava Max",
+              "seokey": "ava-max"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7450553",
+              "name": "Car Keys (Ayla)",
+              "album_seokey": "car-keys-ayla"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Car Keys (Ayla)",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Car Keys (Ayla)",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/a7LWBkzbzX/LWBkqrnDbz/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "146"
+        },
+        {
+          "key": "isrc",
+          "value": "DEE862300929"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "udd-jaa-kaale-kaava-from-gadar-2",
+      "name": "Udd Jaa Kaale Kaava (From \"Gadar 2\")",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/6Zxb27K9wN/xb2qrjNoW9/size_m_1688020211.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/6Zxb27K9wN/xb2qrjNoW9/size_m_1688020211.webp",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/6Zxb27K9wN/xb2qrjNoW9/size_m_1688020211.jpg",
+      "entity_id": "52575016",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/6Zxb27K9wN/xb2qrjNoW9/size_l_1688020211.jpg",
+      "favorite_count": 66549,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "K7vOp"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "5",
+              "name": "Udit Narayan",
+              "seokey": "udit-narayan"
+            },
+            {
+              "artist_id": "10",
+              "name": "Alka Yagnik",
+              "seokey": "alka-yagnik"
+            },
+            {
+              "artist_id": "27",
+              "name": "Mithoon",
+              "seokey": "mithoon"
+            },
+            {
+              "artist_id": "2986",
+              "name": "Uttam Singh",
+              "seokey": "uttam-singh"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7596342",
+              "name": "Udd Jaa Kaale Kaava (From \"Gadar 2\")",
+              "album_seokey": "udd-jaa-kaale-kaava-from-gadar-2"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Udd Jaa Kaale",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Udd Jaa Kaale",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "4M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/6Zxb27K9wN/xb2qrjNoW9/size_l_1688020211.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "288"
+        },
+        {
+          "key": "isrc",
+          "value": "INZ031413259"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "gustakhiyan-18",
+      "name": "Gustakhiyan",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/9En3peWXDV/n3pkqg08KX/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/9En3peWXDV/n3pkqg08KX/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/9En3peWXDV/n3pkqg08KX/size_m.jpg",
+      "entity_id": "52580022",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/9En3peWXDV/n3pkqg08KX/size_l.jpg",
+      "favorite_count": 13467,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "zGego"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "797088",
+              "name": "Gurnam Bhullar",
+              "seokey": "gurnam-bhullar"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7598718",
+              "name": "Gustakhiyan",
+              "album_seokey": "gustakhiyan-punjabi-2023"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Gustakhiyan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Gustakhiyan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "1M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/9En3peWXDV/n3pkqg08KX/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "219"
+        },
+        {
+          "key": "isrc",
+          "value": "INP532000587"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "single-soon",
+      "name": "Single Soon",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/g4w3vr3jJB/w3v5gPvrKj/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/g4w3vr3jJB/w3v5gPvrKj/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/g4w3vr3jJB/w3v5gPvrKj/size_m.jpg",
+      "entity_id": "53567173",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/g4w3vr3jJB/w3v5gPvrKj/size_l.jpg",
+      "favorite_count": 4102,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "DR0nK"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "7407",
+              "name": "Selena Gomez",
+              "seokey": "selena-gomez"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7946436",
+              "name": "Single Soon",
+              "album_seokey": "single-soon"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Single Soon",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Single Soon",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/g4w3vr3jJB/w3v5gPvrKj/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "171"
+        },
+        {
+          "key": "isrc",
+          "value": "USUM72310919"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "chorni-14",
+      "name": "Chorni",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrP07JK6/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrP07JK6/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrP07JK6/size_m.jpg",
+      "entity_id": "52712234",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrP07JK6/size_l.jpg",
+      "favorite_count": 20977,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "lB7W2"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "20310",
+              "name": "DIVINE",
+              "seokey": "divine"
+            },
+            {
+              "artist_id": "1366339",
+              "name": "Sidhu Moose Wala",
+              "seokey": "sidhu-moose-wala"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7646859",
+              "name": "Chorni",
+              "album_seokey": "chorni-hindi-2023"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Chorni",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Chorni",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "1M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrP07JK6/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "181"
+        },
+        {
+          "key": "isrc",
+          "value": "QMBZ92327079"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "kasol-7",
+      "name": "Kasol",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrBlQoK6/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrBlQoK6/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrBlQoK6/size_m.jpg",
+      "entity_id": "52493806",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrBlQoK6/size_l.jpg",
+      "favorite_count": 7000,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "zGego"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "1673830",
+              "name": "Mani Longia",
+              "seokey": "mani-longia"
+            },
+            {
+              "artist_id": "1925881",
+              "name": "Starboy X",
+              "seokey": "starboy-x"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7563759",
+              "name": "Kasol",
+              "album_seokey": "kasol-punjabi-2023-1"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Kasol",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Kasol",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": "https://gaana.com/lyrics/kasol-7"
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/mGjKrP1W6z/jKrrBlQoK6/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "160"
+        },
+        {
+          "key": "isrc",
+          "value": "DGA052345100"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "animal-1615",
+      "name": "Animal",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/P7m3GNKqxo/m3GPzR29Wq/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/P7m3GNKqxo/m3GPzR29Wq/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/P7m3GNKqxo/m3GPzR29Wq/size_m.jpg",
+      "entity_id": "54824259",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/P7m3GNKqxo/m3GPzR29Wq/size_l.jpg",
+      "favorite_count": 1001,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "lB7W2"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "1965271",
+              "name": "Black Shepherd",
+              "seokey": "black-shepherd"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8346127",
+              "name": "Immortal Aggression",
+              "album_seokey": "immortal-aggression"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Animal",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Animal",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/P7m3GNKqxo/m3GPzR29Wq/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "176"
+        },
+        {
+          "key": "isrc",
+          "value": "NLW502300152"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "khairiyat-from-gadar-2",
+      "name": "Khairiyat (From \"Gadar 2\")",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/XzVWRLKdqR/VWRvvEAAWd/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/XzVWRLKdqR/VWRvvEAAWd/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/XzVWRLKdqR/VWRvvEAAWd/size_m.jpg",
+      "entity_id": "52869177",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/XzVWRLKdqR/VWRvvEAAWd/size_l.jpg",
+      "favorite_count": 22877,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "K7vOp"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "52767",
+              "name": "Arijit Singh",
+              "seokey": "arijit-singh"
+            },
+            {
+              "artist_id": "27",
+              "name": "Mithoon",
+              "seokey": "mithoon"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7702713",
+              "name": "Khairiyat (From \"Gadar 2\")",
+              "album_seokey": "khairiyat-from-gadar-2"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Khairiyat (From \"Gadar",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Khairiyat (From \"Gadar",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "2M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/XzVWRLKdqR/VWRvvEAAWd/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "231"
+        },
+        {
+          "key": "isrc",
+          "value": "INZ031413375"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "kalleyan",
+      "name": "Kalleyan",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/zLp36v3rGe/p36l2Ge0br/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/zLp36v3rGe/p36l2Ge0br/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/zLp36v3rGe/p36l2Ge0br/size_m.jpg",
+      "entity_id": "54751319",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/zLp36v3rGe/p36l2Ge0br/size_l.jpg",
+      "favorite_count": 2628,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "AK9OR"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "201367",
+              "name": "AKASA",
+              "seokey": "akasa-singh"
+            },
+            {
+              "artist_id": "1435993",
+              "name": "Taaruk",
+              "seokey": "taaruk-raina"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8326324",
+              "name": "Kalleyan",
+              "album_seokey": "kalleyan"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Kalleyan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Kalleyan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/zLp36v3rGe/p36l2Ge0br/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "171"
+        },
+        {
+          "key": "isrc",
+          "value": "INS172316382"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            },
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "speed-drive-from-barbie-the-album",
+      "name": "Speed Drive (From Barbie The Album)",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/NW0lJrD5Wo/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/NW0lJrD5Wo/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/NW0lJrD5Wo/size_m.jpg",
+      "entity_id": "52568760",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/NW0lJrD5Wo/size_l.jpg",
+      "favorite_count": 2990,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "3QDMe"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "252409",
+              "name": "Charli XCX",
+              "seokey": "charli-xcx"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7593175",
+              "name": "Speed Drive (From Barbie The Album)",
+              "album_seokey": "speed-drive-from-barbie-the-album"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Speed Drive (From",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Speed Drive (From",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/NW0lJrD5Wo/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "117"
+        },
+        {
+          "key": "isrc",
+          "value": "USAT22306163"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "jai-ganesha-from-ganapath",
+      "name": "Jai Ganesha (From \"Ganapath\")",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/w4MKPDOKoj/MKPDekwoKo/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/w4MKPDOKoj/MKPDekwoKo/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/w4MKPDOKoj/MKPDekwoKo/size_m.jpg",
+      "entity_id": "53948968",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/w4MKPDOKoj/MKPDekwoKo/size_l.jpg",
+      "favorite_count": 6229,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "K7vOp"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "276430",
+              "name": "Vishal Mishra",
+              "seokey": "vishal-mishra"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8100593",
+              "name": "Jai Ganesha (From \"Ganapath\")",
+              "album_seokey": "jai-ganesha-from-ganapath"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Jai Ganesha (From",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Jai Ganesha (From",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/w4MKPDOKoj/MKPDekwoKo/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "216"
+        },
+        {
+          "key": "isrc",
+          "value": "INZ031413665"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "sleepless-595",
+      "name": "Sleepless",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/GWwArEj2Kp/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/GWwArEj2Kp/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/GWwArEj2Kp/size_m.jpg",
+      "entity_id": "52735025",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/GWwArEj2Kp/size_l.jpg",
+      "favorite_count": 10502,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "lB7W2"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "3035747",
+              "name": "AP Dhillon",
+              "seokey": "ap-dhillon"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7656172",
+              "name": "Sleepless",
+              "album_seokey": "sleepless-punjabi-2023-1"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Sleepless",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Sleepless",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/GWwArEj2Kp/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "156"
+        },
+        {
+          "key": "isrc",
+          "value": "QMBZ92330323"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            },
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "used-to-be-young",
+      "name": "Used To Be Young",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/kGxbnw0Ky4/xbn15RZMWy/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/kGxbnw0Ky4/xbn15RZMWy/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/kGxbnw0Ky4/xbn15RZMWy/size_m.jpg",
+      "entity_id": "53561860",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/kGxbnw0Ky4/xbn15RZMWy/size_l.jpg",
+      "favorite_count": 1632,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "AK9OR"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "7317",
+              "name": "Miley Cyrus",
+              "seokey": "miley-cyrus"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7944682",
+              "name": "Used To Be Young",
+              "album_seokey": "used-to-be-young"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Used To Be",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Used To Be",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/kGxbnw0Ky4/xbn15RZMWy/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "191"
+        },
+        {
+          "key": "isrc",
+          "value": "USSM12306461"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "homecoming-the-ayodhya-anthem-hindi",
+      "name": "Homecoming (The Ayodhya Anthem) (Hindi)",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/ogNWkDbmXJ/NWklqgEDbm/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/ogNWkDbmXJ/NWklqgEDbm/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/ogNWkDbmXJ/NWklqgEDbm/size_m.jpg",
+      "entity_id": "55788167",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/ogNWkDbmXJ/NWklqgEDbm/size_l.jpg",
+      "favorite_count": 1015,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "AK9OR"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "1011676",
+              "name": "Darbuka Siva",
+              "seokey": "darbuka-siva"
+            },
+            {
+              "artist_id": "304",
+              "name": "Vijay Prakash",
+              "seokey": "vijay-prakash"
+            },
+            {
+              "artist_id": "1448320",
+              "name": "Pavithra Chari",
+              "seokey": "pavithra-chari"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8714232",
+              "name": "Homecoming (The Ayodhya Anthem) (Hindi)",
+              "album_seokey": "homecoming-the-ayodhya-anthem-hindi"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Homecoming (The Ayodhya",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Homecoming (The Ayodhya",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/ogNWkDbmXJ/NWklqgEDbm/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "296"
+        },
+        {
+          "key": "isrc",
+          "value": "INS172400144"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 99,
+              "tag_name": "Devotional"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "zulfa-15",
+      "name": "Zulfaan",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/qa4WEqqWP1/4WEqGXJxWP/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/qa4WEqqWP1/4WEqGXJxWP/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/qa4WEqqWP1/4WEqGXJxWP/size_m.jpg",
+      "entity_id": "53807317",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/qa4WEqqWP1/4WEqGXJxWP/size_l.jpg",
+      "favorite_count": 2760,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "zGego"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "781401",
+              "name": "Jordan Sandhu",
+              "seokey": "jordan-sandhu"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8041790",
+              "name": "Zulfaan",
+              "album_seokey": "zulfa-punjabi-2023"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Zulfaan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Zulfaan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/qa4WEqqWP1/4WEqGXJxWP/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "174"
+        },
+        {
+          "key": "isrc",
+          "value": "DGA092321135"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420405000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "see-you-again-665",
+      "name": "See You Again",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/6Zxb2r7b9w/xb2qXy7OW9/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/6Zxb2r7b9w/xb2qXy7OW9/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/6Zxb2r7b9w/xb2qXy7OW9/size_m.jpg",
+      "entity_id": "52375909",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/6Zxb2r7b9w/xb2qXy7OW9/size_l.jpg",
+      "favorite_count": 4063,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "AK9OR"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "145972",
+              "name": "The Chainsmokers",
+              "seokey": "the-chainsmokers"
+            },
+            {
+              "artist_id": "864568",
+              "name": "Illenium",
+              "seokey": "illenium"
+            },
+            {
+              "artist_id": "1781799",
+              "name": "Carlie Hanson",
+              "seokey": "carlie-hanson"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7530986",
+              "name": "See You Again",
+              "album_seokey": "see-you-again-english-2023-10"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "See You Again",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "See You Again",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/6Zxb2r7b9w/xb2qXy7OW9/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "163"
+        },
+        {
+          "key": "isrc",
+          "value": "USQX92303476"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "aa-rahe-bhagwan-hai",
+      "name": "Aa Rahe Bhagwan Hai",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/R7vKXr6Wmr/vKXrooGzWm/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/R7vKXr6Wmr/vKXrooGzWm/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/R7vKXr6Wmr/vKXrooGzWm/size_m.jpg",
+      "entity_id": "55791427",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/R7vKXr6Wmr/vKXrooGzWm/size_l.jpg",
+      "favorite_count": 1087,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "zGego"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "757948",
+              "name": "Jubin Nautiyal",
+              "seokey": "zubin-nautiyal"
+            },
+            {
+              "artist_id": "2521431",
+              "name": "Rocky Khanna",
+              "seokey": "rocky-khanna"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8715889",
+              "name": "Aa Rahe Bhagwan Hai",
+              "album_seokey": "aa-rahe-bhagwan-hai"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Aa Rahe Bhagwan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Aa Rahe Bhagwan",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/R7vKXr6Wmr/vKXrooGzWm/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "209"
+        },
+        {
+          "key": "isrc",
+          "value": "FR10S2470897"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 99,
+              "tag_name": "Devotional"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "allah-di-namaaz",
+      "name": "Allah Di Namaaz",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/rb4ke8OXWL/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/rb4ke8OXWL/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/rb4ke8OXWL/size_m.jpg",
+      "entity_id": "53977026",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/rb4ke8OXWL/size_l.jpg",
+      "favorite_count": 793,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "3QDMe"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "203543",
+              "name": "Kanwar Grewal",
+              "seokey": "kanwar-grewal"
+            },
+            {
+              "artist_id": "998532",
+              "name": "Gurnazar Chattha",
+              "seokey": "gurnazar"
+            },
+            {
+              "artist_id": "1252743",
+              "name": "Kartik Dev",
+              "seokey": "kartik-dev"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8110408",
+              "name": "Allah Di Namaaz",
+              "album_seokey": "allah-di-namaaz"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Allah Di Namaaz",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Allah Di Namaaz",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/rb4ke8OXWL/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "273"
+        },
+        {
+          "key": "isrc",
+          "value": "INW262318460"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 99,
+              "tag_name": "Devotional"
+            },
+            {
+              "tag_id": 19,
+              "tag_name": "Sufi"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420406000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "jacquemus-5",
+      "name": "Jacquemus",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/Dk9KN2KBx1/9KNgP9Zd3B/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/Dk9KN2KBx1/9KNgP9Zd3B/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/Dk9KN2KBx1/9KNgP9Zd3B/size_m.jpg",
+      "entity_id": "52471066",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/Dk9KN2KBx1/9KNgP9Zd3B/size_l.jpg",
+      "favorite_count": 2700,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "dW95v"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "2488625",
+              "name": "Tesher",
+              "seokey": "tesher"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7557723",
+              "name": "Jacquemus",
+              "album_seokey": "jacquemus-english"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Jacquemus",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Jacquemus",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/Dk9KN2KBx1/9KNgP9Zd3B/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "165"
+        },
+        {
+          "key": "isrc",
+          "value": "QZNJW2359018"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "jalsa-20-1",
+      "name": "JALSA 2.0",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/21GWwR3pkg/GWwAOZx2Kp/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/21GWwR3pkg/GWwAOZx2Kp/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/21GWwR3pkg/GWwAOZx2Kp/size_m.jpg",
+      "entity_id": "53862897",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/21GWwR3pkg/GWwAOZx2Kp/size_l.jpg",
+      "favorite_count": 15333,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "zGego"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "288204",
+              "name": "Satinder Sartaaj",
+              "seokey": "satinder-sartaaj"
+            },
+            {
+              "artist_id": "1063398",
+              "name": "Prem & Hardeep",
+              "seokey": "prem-hardeep"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8066428",
+              "name": "JALSA 2.0 (From \"Mission Raniganj: The Great Bharat Rescue\")",
+              "album_seokey": "jalsa-20-from-mission-raniganj-the-great-bharat-rescue"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "JALSA 2.0",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "JALSA 2.0",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "1M+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/21GWwR3pkg/GWwAOZx2Kp/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "196"
+        },
+        {
+          "key": "isrc",
+          "value": "DGA092356504"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            },
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "ayee-15",
+      "name": "Ayee",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/9MAWe7KyJe/AWeLw8yL3y/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/9MAWe7KyJe/AWeLw8yL3y/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/9MAWe7KyJe/AWeLw8yL3y/size_m.jpg",
+      "entity_id": "53920852",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/9MAWe7KyJe/AWeLw8yL3y/size_l.jpg",
+      "favorite_count": 2158,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "3QDMe"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "1900803",
+              "name": "Harnoor",
+              "seokey": "harnoor"
+            },
+            {
+              "artist_id": "2183620",
+              "name": "Jassa Dhillon",
+              "seokey": "jassa-dhillon"
+            },
+            {
+              "artist_id": "1430593",
+              "name": "Ilam",
+              "seokey": "ilam"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8088214",
+              "name": "Ayee",
+              "album_seokey": "ayee-punjabi"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Ayee",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Ayee",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/9MAWe7KyJe/AWeLw8yL3y/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "146"
+        },
+        {
+          "key": "isrc",
+          "value": "INSD11904468"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420405000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "anywhere-with-you-73",
+      "name": "Anywhere With You",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/XYybzNrb2g/ybzgRl0mK2/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/XYybzNrb2g/ybzgRl0mK2/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/XYybzNrb2g/ybzgRl0mK2/size_m.jpg",
+      "entity_id": "52492994",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/XYybzNrb2g/ybzgRl0mK2/size_l.jpg",
+      "favorite_count": 1953,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "DR0nK"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "373461",
+              "name": "Johnny Orlando",
+              "seokey": "johnny-orlando"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7563466",
+              "name": "Anywhere With You (From The Animated Film \"Butterfly Tale\")",
+              "album_seokey": "anywhere-with-you-from-the-animated-film-butterfly-tale"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Anywhere With You",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Anywhere With You",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/XYybzNrb2g/ybzgRl0mK2/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "165"
+        },
+        {
+          "key": "isrc",
+          "value": "CAUM72300264"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420404000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "seokey": "ruaan-from-tiger-3",
+      "name": "Ruaan (From \"Tiger 3\")",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqZoKyQ/9bqZjqxXKy/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqZoKyQ/9bqZjqxXKy/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqZoKyQ/9bqZjqxXKy/size_m.jpg",
+      "entity_id": "54577194",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqZoKyQ/9bqZjqxXKy/size_l.jpg",
+      "favorite_count": 9585,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "lmqbY"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "11468",
+              "name": "Pritam",
+              "seokey": "pritam"
+            },
+            {
+              "artist_id": "52767",
+              "name": "Arijit Singh",
+              "seokey": "arijit-singh"
+            },
+            {
+              "artist_id": "1273210",
+              "name": "Irshad Kamil",
+              "seokey": "irshad-kamil"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8283691",
+              "name": "Ruaan (From \"Tiger 3\")",
+              "album_seokey": "ruaan-from-tiger-3"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Ruaan (From \"Tiger",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Ruaan (From \"Tiger",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/4Z9bqZoKyQ/9bqZjqxXKy/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "257"
+        },
+        {
+          "key": "isrc",
+          "value": "INY092300063"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 103,
+              "tag_name": "Romance"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420402000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Hindi"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "Punjabi",
+      "seokey": "check-it-out-326",
+      "name": "Check It Out",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBamXwD3z/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBamXwD3z/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBamXwD3z/size_m.jpg",
+      "entity_id": "52337938",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBamXwD3z/size_l.jpg",
+      "favorite_count": 17470,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "zGego"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "1364917",
+              "name": "Parmish Verma",
+              "seokey": "parmish-verma"
+            },
+            {
+              "artist_id": "37830",
+              "name": "Paradox",
+              "seokey": "paradox"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "7519809",
+              "name": "Check It Out",
+              "album_seokey": "check-it-out-punjabi"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Check It Out",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Check It Out",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 0
+        },
+        {
+          "key": "play_ct",
+          "value": "500K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/LWBamXwD3z/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "195"
+        },
+        {
+          "key": "isrc",
+          "value": "DGA052307798"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "tags",
+          "value": [
+            {
+              "tag_id": 100,
+              "tag_name": "Party"
+            }
+          ]
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "Punjabi"
+        },
+        {
+          "key": "ppd",
+          "value": 1
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "seokey": "agora-hills-1",
+      "name": "Agora Hills",
+      "artwork": "https://a10.gaanacdn.com/gn_img/albums/Bp1bAnK029/1bAL445gW0/size_m.jpg",
+      "atw": "https://a10.gaanacdn.com/gn_img/albums/Bp1bAnK029/1bAL445gW0/size_m.jpg",
+      "atwj": "https://a10.gaanacdn.com/gn_img/albums/Bp1bAnK029/1bAL445gW0/size_m.jpg",
+      "entity_id": "53963226",
+      "entity_type": "TR",
+      "artwork_medium": "https://a10.gaanacdn.com/gn_img/albums/Bp1bAnK029/1bAL445gW0/size_l.jpg",
+      "favorite_count": 1567,
+      "premium_content": "0",
+      "user_favorite": 0,
+      "entity_info": [
+        {
+          "key": "vgid",
+          "value": "AK9OR"
+        },
+        {
+          "key": "artist",
+          "value": [
+            {
+              "artist_id": "237430",
+              "name": "Doja Cat",
+              "seokey": "doja-cat"
+            }
+          ]
+        },
+        {
+          "key": "album",
+          "value": [
+            {
+              "album_id": "8106819",
+              "name": "Scarlet",
+              "album_seokey": "scarlet-english-2023-8"
+            }
+          ]
+        },
+        {
+          "key": "operator",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Agora Hills",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "operators",
+          "value": [
+            {
+              "name": "JIO",
+              "st": 1590019200000,
+              "et": 1747785600000,
+              "message": "Agora Hills",
+              "short_code": "56789"
+            }
+          ]
+        },
+        {
+          "key": "lyrics_url",
+          "value": ""
+        },
+        {
+          "key": "parental_warning",
+          "value": 1
+        },
+        {
+          "key": "play_ct",
+          "value": "100K+"
+        },
+        {
+          "key": "artwork_large",
+          "value": "https://a10.gaanacdn.com/gn_img/albums/Bp1bAnK029/1bAL445gW0/size_l.jpg"
+        },
+        {
+          "key": "sap_id",
+          "value": ""
+        },
+        {
+          "key": "country",
+          "value": "1"
+        },
+        {
+          "key": "mobile",
+          "value": "1"
+        },
+        {
+          "key": "duration",
+          "value": "265"
+        },
+        {
+          "key": "isrc",
+          "value": "USRC12301954"
+        },
+        {
+          "key": "is_most_popular",
+          "value": 0
+        },
+        {
+          "key": "stream_type",
+          "value": "rtmp"
+        },
+        {
+          "key": "is_local",
+          "value": "0"
+        },
+        {
+          "key": "content_source",
+          "value": 1
+        },
+        {
+          "key": "av_ad",
+          "value": 0
+        },
+        {
+          "key": "youtube_id",
+          "value": ""
+        },
+        {
+          "key": "rest_lev",
+          "value": "0"
+        },
+        {
+          "key": "modified_on_solr",
+          "value": "1709420403000"
+        },
+        {
+          "key": "download_enabled",
+          "value": 0
+        },
+        {
+          "key": "secondary_language",
+          "value": "English"
+        },
+        {
+          "key": "ppd",
+          "value": 0
+        },
+        {
+          "key": "is_premium",
+          "value": 1
+        },
+        {
+          "key": "preview_url",
+          "value": {
+            "message": "pSFO08Pw4dp3VRAsttmfT0IAjKH9TD83ae87pFTzfpQKPtv+O7ka7drzLSEJ1QK2j6HrvxqTNCEz1oEz5OCGubN2Md9YwbisoTd5ZynsH5mVLCcTVf5GXlWkMI7mMEmZM9PC4b5un2/bdOA5nbVtiQ==",
+            "expiryTime": 1709462715
+          }
+        }
+      ]
+    }
+  ],
+  "entityDescription": "trending songs",
+  "user_token_status": "0"
+}
