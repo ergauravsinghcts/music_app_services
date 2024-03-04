@@ -17,9 +17,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.bind.annotation.GetMapping;
 
-
 @RestController
 @RequestMapping
+@CrossOrigin
 public class SongController {
 
     @Autowired
@@ -40,7 +40,7 @@ public class SongController {
         return songService.getSavedSongs();
     }
 
-    @GetMapping("/all-songs")
+    @GetMapping(value = "/all-songs", produces = "application/json")
     public List<Song> getAllSongs() {
         return songService.getAllSongs();
     }

@@ -11,6 +11,7 @@ package com.music.gaana.serviceImpl;
 
 import java.util.List;
 
+import org.json.JSONException;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -21,6 +22,9 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.music.gaana.exceptions.SongAlreadyExistsException;
 import com.music.gaana.exceptions.SongNotFoundException;
 import com.music.gaana.model.Song;
@@ -40,6 +44,10 @@ public class SongServiceImpl implements SongService {
     // api url from properties file
     @Value("${GAANA_API_URL}")
     private String gaanaAPIUrl;
+
+    // backup api url
+    @Value("${BACKUP_API_URL}")
+    private String backupAPIUrl;
 
     @Override
     public Song saveSong(Song song) throws SongAlreadyExistsException {
@@ -76,29 +84,39 @@ public class SongServiceImpl implements SongService {
          * Obtain the value of GAANA_API_URL from application.properties.
          */
 
-        System.out.println("url :" + gaanaAPIUrl);
+        JSONObject response = null;
 
-        // create HTTP headers and set host name ans postman host
-        HttpHeaders headers = new HttpHeaders();
-        headers.set("Host", "gaana.com");
+        // use JSONObject from org.json to parse the response from the API surround with
+        // try catch
+        // try {
+        // response = restTemplate.postForObject(gaanaAPIUrl, null, JSONObject.class);
+        // } catch (Exception e) {
+        // call backup API
+        // do {
+        ResponseEntity<String> backupResponse = restTemplate.exchange(
+                backupAPIUrl,
+                HttpMethod.GET, null, String.class);
 
-        HttpEntity<String> entity = new HttpEntity<>("parameters", headers);
+        response = new JSONObject(backupResponse.getBody());
+        // } while (!response.has("entities"));
+        // }
 
-        RestTemplate restTemplate = new RestTemplate();
-        ResponseEntity<String> responseEntity = restTemplate.exchange(
-                gaanaAPIUrl, HttpMethod.POST, entity, String.class);
+        ObjectMapper mapper = new ObjectMapper();
+        List<Song> songs;
+        try {
+            songs = mapper.readValue(response.get("entities").toString(),
+                    new TypeReference<List<Song>>() {
+                    });
+        } catch (JsonProcessingException | JSONException e) {
+            songs = null;
+            e.printStackTrace();
+        }
 
-        // ResponseEntity<String> responseEntity = restTemplate.exchange(
-        //         gaanaAPIUrl, HttpMethod.POST,
-        //         new HttpEntity<String>(null, headers), String.class);
-
-        System.err.println(responseEntity.getBody());
-
-        // use JSONObject from org.json to parse the response from the API
-        JSONObject response = restTemplate.postForObject(gaanaAPIUrl, null, JSONObject.class);
+        SongList songList = new SongList(songs);
 
         // convert the response.entities to a SongList object
-        SongList songList = (SongList) response.getJSONArray("entities").toList();
+        // SongList songList = new
+        // SongList(response.getJSONArray("entities").toString());
 
         // HttpHeaders headers = new HttpHeaders();
         // headers.set("Host", "www.example.com");

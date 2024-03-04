@@ -11,10 +11,9 @@ import org.springframework.web.client.RestTemplate;
 
 @Configuration
 public class AppConfig {
+
     @Bean
     public RestTemplate getRestTemplate() {
-        SimpleClientHttpRequestFactory requestFactory = new SimpleClientHttpRequestFactory();
-        requestFactory.setBufferRequestBody(false);
-        return new RestTemplate(requestFactory);
+        return new RestTemplate(new SimpleClientHttpRequestFactory());
     }
 }

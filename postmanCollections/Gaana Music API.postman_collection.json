@@ -1,0 +1,304 @@
+{
+	"info": {
+		"_postman_id": "6b4afd85-f98a-4414-90f5-9e035b8acd66",
+		"name": "Gaana Music API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User Registration",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"emailId\": \"gaurav@cts.com\",\n    \"password\": \"test1234\",\n    \"userName\": \"Gaurav Singh\",\n    \"mobile\": \"1234567890\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8090/api/gaana/user/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"gaana",
+						"user",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"emailId\": \"gaurav@cts.com\",\n    \"password\": \"test1234\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8090/api/gaana/user/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"gaana",
+						"user",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Songs",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer <Your JWT Token>"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8090/api/gaana/all-songs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"gaana",
+						"all-songs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Saved Songs",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDk1Mjk4NDYsInN1YiI6ImdhdXJhdkBjdHMuY29tIn0.o0iDXsSHNPAe1NjnBKZB1YcPR0XjP8WsOckRSnJ2Vrs"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8090/api/gaana/saved-songs",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"gaana",
+						"saved-songs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Song",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					},
+					{
+						"key": "Access-Control-Allow-Headers",
+						"value": "Content-Type, Authorization, Content-Length, X-Requested-With"
+					},
+					{
+						"key": "Access-Control-Allow-Methods",
+						"value": "GET,PUT,POST,DELETE,PATCH,OPTIONS"
+					},
+					{
+						"key": "Access-Control-Allow-Origin",
+						"value": "*"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDk1MzQ1NTgsInN1YiI6ImdhdXJhdkBjdHMuY29tIn0.rsBp4TlmEBXbA5UAaJikNbYGEKX6e2gbXnnzzFP--5g"
+					},
+					{
+						"key": "Connection",
+						"value": "keep-alive"
+					},
+					{
+						"key": "Origin",
+						"value": "http://127.0.0.1:5173"
+					},
+					{
+						"key": "Referer",
+						"value": "http://127.0.0.1:5173/"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "cross-site"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
+					},
+					{
+						"key": "sec-ch-ua",
+						"value": "\"Chromium\";v=\"122\", \"Not(A:Brand\";v=\"24\", \"Microsoft Edge\";v=\"122\""
+					},
+					{
+						"key": "sec-ch-ua-mobile",
+						"value": "?0"
+					},
+					{
+						"key": "sec-ch-ua-platform",
+						"value": "\"Windows\""
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8090/api/gaana/song/54257493",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"gaana",
+						"song",
+						"54257493"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Save Song",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json, text/plain, */*"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "en-US,en;q=0.9"
+					},
+					{
+						"key": "Access-Control-Allow-Headers",
+						"value": "Content-Type, Authorization, Content-Length, X-Requested-With"
+					},
+					{
+						"key": "Access-Control-Allow-Methods",
+						"value": "GET,PUT,POST,DELETE,PATCH,OPTIONS"
+					},
+					{
+						"key": "Access-Control-Allow-Origin",
+						"value": "*"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDk1MzQ1NTgsInN1YiI6ImdhdXJhdkBjdHMuY29tIn0.rsBp4TlmEBXbA5UAaJikNbYGEKX6e2gbXnnzzFP--5g"
+					},
+					{
+						"key": "Connection",
+						"value": "keep-alive"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Origin",
+						"value": "http://127.0.0.1:5173"
+					},
+					{
+						"key": "Referer",
+						"value": "http://127.0.0.1:5173/"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "cross-site"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
+					},
+					{
+						"key": "sec-ch-ua",
+						"value": "\"Chromium\";v=\"122\", \"Not(A:Brand\";v=\"24\", \"Microsoft Edge\";v=\"122\""
+					},
+					{
+						"key": "sec-ch-ua-mobile",
+						"value": "?0"
+					},
+					{
+						"key": "sec-ch-ua-platform",
+						"value": "\"Windows\""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"language\":\"Punjabi\",\"name\":\"Kalaastar (From \"Honey 3.0\")\",\"artwork\":\"https://a10.gaanacdn.com/gn_img/albums/R7vKX6WmrP/vKXrNk9vWm/size_m.jpg\",\"entity_id\":\"54257493\",\"favorite_count\":23397,\"premium_content\":\"0\"}"
+				},
+				"url": {
+					"raw": "http://localhost:8090/api/gaana/song",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"api",
+						"gaana",
+						"song"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

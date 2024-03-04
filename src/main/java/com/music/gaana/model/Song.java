@@ -20,6 +20,8 @@ package com.music.gaana.model;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -28,12 +30,13 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Document(collection = "song")
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Song {
-    @Id
-    private String id;
+    
     private String language;
     private String name;
     private String artwork;
+    @Id
     private String entity_id;
     private int favorite_count;
     private String premium_content;
